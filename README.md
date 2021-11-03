@@ -1,4 +1,4 @@
-# ros-trouble-shooting
+# ROS Trouble Shooting
 Tip and Tricks for trouble shooting ros common packages in action
 
 ## Joint Trajectory Controller
